@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stat.h": "c",
+        "common.h": "c",
+        "enrollment.h": "c"
+    }
+}
